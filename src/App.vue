@@ -162,7 +162,7 @@ export default {
         link.click();
         document.body.removeChild(link);
       });
-      alert('Novo layout enviado!');
+      alert('Favor, enviar a imagem gerada para o email do supervisor da T.I com o pedido de layout!');
     }
   }
 };
